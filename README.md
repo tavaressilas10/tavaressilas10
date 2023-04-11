@@ -1,9 +1,6 @@
 <div align="center">
   <a href="https://github.com/tavaressilas10">
-    <p>Olá 👋 
-     Meu nome é Silas e eu sou Desenvolvedor Full Stack
-     Um pouco sobre mim
-    Meu nome é Silas tenho 23 anos e sou Desenvolvedor Web Full-Stack formado pela Generation Brasil</p>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tavaressilas10&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaressilas10&layout=compact&langs_count=7&theme=dark"/>
 </div>
