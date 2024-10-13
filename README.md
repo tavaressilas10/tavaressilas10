@@ -14,10 +14,4 @@
   <br>
 </div>
   
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  ![Snake animation](https://github.com/tavaressilas10/tavaressilas10/blob/output/github-contribution-grid-snake.svg)
 
