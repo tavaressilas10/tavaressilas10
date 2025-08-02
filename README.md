@@ -20,3 +20,5 @@
 
   [![My Skills](https://skillicons.dev/icons?i=ts,nestjs,react,java,javascript,html,css,mysql,python,bootstrap,materialui)](https://skillicons.dev)
 
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="75b15efb-cec1-478f-bd48-65ebebd025cb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
